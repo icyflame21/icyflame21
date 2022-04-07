@@ -1,6 +1,6 @@
 ![Biswaranjan Subudhi Banner](https://raw.githubusercontent.com/biswa-ranjan-subudhi/biswa-ranjan-subudhi/master/assets/banner.png)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='55' align="left"/><h1>Hey there! I'm Biswaranjan</h1>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='55' align="center"/><h1 align="center">Hey there! I'm Biswaranjan</h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
