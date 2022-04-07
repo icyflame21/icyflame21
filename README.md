@@ -5,19 +5,12 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks, Actively looking for new opportunities.
-
 🎓 &nbsp;I'm currently pursing a course on Full Stack Web Development at Masai School, Bangalore, India.
-
 🌱 &nbsp;I love building things that work efficiently and looks great.
-
 ⚡ &nbsp;Fun fact **Jack of all trades, master of none**
-
 💬 &nbsp;Feel free to reach out to me for project collaborations, or just for some interesting discussion.
-
 🥅 &nbsp;2021 Goals **Contribute more to Open Source projects.**
-
 ✉️ &nbsp;You can shoot me an email at biswaranjan.cuh@gmail.com! I'll try to respond as soon as I can.
-
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1__dINd6I86Wub9wATvpDM-CoVUtgPikj/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/biswa-ranjan-subudhi/biswa-ranjan-subudhi/master/assets/Night-Coding.gif" align="right"/>
