@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Biswaranjan 😎</h1>
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;**About Me**
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks, Actively looking for new opportunities.<br/>
 🌱 &nbsp;I love building things that work efficiently and looks great.<br/>
