@@ -47,11 +47,10 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-<pre>
+
 <a href="https://github.com/biswa-ranjan-subudhi">
   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=biswa-ranjan-subudhi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>&nbsp;  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=biswa-ranjan-subudhi&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</pre>
 <br/>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
