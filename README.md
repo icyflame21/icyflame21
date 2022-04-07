@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;**About Me**
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks, Actively looking for new opportunities.<br/>
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br/>
 🌱 &nbsp;I love building things that work efficiently and looks great.<br/>
 💬 &nbsp;Feel free to reach out to me for project collaborations, or just for some interesting discussion.<br/>
 ✉️ &nbsp;You can shoot me an email at biswaranjan.cuh@gmail.com! I'll try to respond as soon as I can.<br/>
