@@ -58,7 +58,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p style="margin-left:30px">
+<p style="marginLeft:30px">
 <a href="https://www.linkedin.com/in/biswaranjan-subudhi-508158179/"><img src="https://img.shields.io/badge/-Biswaranjan%20%20Subudhi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:biswaranjan.cuh@gmail.com"><img src="https://img.shields.io/badge/-biswaranjan.cuh-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/biswa.subudhi987/"><img src="https://img.shields.io/badge/-Biswaranjan-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
