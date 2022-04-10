@@ -1,6 +1,6 @@
 ![Biswaranjan Subudhi Banner](https://raw.githubusercontent.com/biswa-ranjan-subudhi/biswa-ranjan-subudhi/master/assets/banner.png)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/biswa-ranjan-subudhi/biswa-ranjan-subudhi/master/wave.gif" width="30px">, I'm Biswaranjan 😎</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Biswaranjan 😎</h1>
 <h3 align="center">A passionate full-stack web developer from Bhubaneswar (India)</h3>
 
 ## 👨🏻‍💻 &nbsp;**About Me**
