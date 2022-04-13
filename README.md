@@ -1,4 +1,4 @@
-![Biswaranjan Subudhi Banner](https://raw.githubusercontent.com/biswa-ranjan-subudhi/biswa-ranjan-subudhi/master/assets/banner.png)
+![Biswaranjan Subudhi Banner](https://raw.githubusercontent.com/icyflame21/icyflame21/master/assets/banner.png)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Biswaranjan 😎</h1>
 <h3 align="center">A passionate full-stack web developer from Bhubaneswar (India)</h3>
@@ -18,7 +18,7 @@
 - ⚡ &nbsp;Fun fact: **Jack of all trades, master of none**
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/biswa-ranjan-subudhi/biswa-ranjan-subudhi/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/icyflame21/icyflame21/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -43,8 +43,8 @@
 
 <br/>
 <p align="center">
-    <a href="https://github.com/biswa-ranjan-subudhi/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Biswaranjan's streak" src="https://github-readme-streak-stats.herokuapp.com?user=biswa-ranjan-subudhi&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&background=2B3142&currStreakLabel=D5DDDB&ring=4ADD33&border=DDD95D6F&stroke=DDD5A3&currStreakNum=5361DD&sideNums=4ED4DD&sideLabels=DD71CF&dates=D5DDDB"/>
+    <a href="https://github.com/icyflame21/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Biswaranjan's streak" src="https://github-readme-streak-stats.herokuapp.com?user=icyflame21&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&background=2B3142&currStreakLabel=D5DDDB&ring=4ADD33&border=DDD95D6F&stroke=DDD5A3&currStreakNum=5361DD&sideNums=4ED4DD&sideLabels=DD71CF&dates=D5DDDB"/>
     </a>
 </p>
 <br/>
@@ -52,8 +52,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 
-<a href="https://github.com/biswa-ranjan-subudhi">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=biswa-ranjan-subudhi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>&nbsp;  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=biswa-ranjan-subudhi&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/icyflame21">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=icyflame21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>&nbsp;  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=biswa-ranjan-subudhi&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 <br/>
 <br/>
@@ -66,11 +66,4 @@
 <a href="https://www.linkedin.com/in/biswaranjan-subudhi-508158179/"><img src="https://img.shields.io/badge/-Biswaranjan%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:biswaranjan.cuh@gmail.com"><img src="https://img.shields.io/badge/-biswaranjan.cuh-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/biswa.subudhi987/"><img src="https://img.shields.io/badge/-Biswaranjan-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-
-<!-- <a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> -->
-
-
-<!-- <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
-</p> -->
+</p>
