@@ -42,12 +42,6 @@
 </p> 
 
 <br/>
-<p align="center">
-    <a href="https://github.com/icyflame21/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Biswaranjan's streak" src="https://github-readme-streak-stats.herokuapp.com?user=icyflame21&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&background=2B3142&currStreakLabel=D5DDDB&ring=4ADD33&border=DDD95D6F&stroke=DDD5A3&currStreakNum=5361DD&sideNums=4ED4DD&sideLabels=DD71CF&dates=D5DDDB"/>
-    </a>
-</p>
-<br/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
@@ -55,6 +49,12 @@
 <a href="https://github.com/icyflame21">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=icyflame21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>&nbsp;  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=icyflame21&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+    <br/>
+    <p align="center">
+    <a href="https://github.com/icyflame21/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Biswaranjan's streak" src="https://github-readme-streak-stats.herokuapp.com?user=icyflame21&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&background=2B3142&currStreakLabel=D5DDDB&ring=4ADD33&border=DDD95D6F&stroke=DDD5A3&currStreakNum=5361DD&sideNums=4ED4DD&sideLabels=DD71CF&dates=D5DDDB"/>
+    </a>
+</p>
 <br/>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
