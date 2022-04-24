@@ -52,7 +52,7 @@
     <br/>
     <p align="center">
     <a href="https://github.com/icyflame21/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Biswaranjan's streak" src="https://github-readme-streak-stats.herokuapp.com?user=icyflame21&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&background=2B3142&currStreakLabel=D5DDDB&ring=4ADD33&border=DDD95D6F&stroke=DDD5A3&currStreakNum=5361DD&sideNums=4ED4DD&sideLabels=DD71CF&dates=D5DDDB"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=icyflame21&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&background=2B3142&currStreakLabel=D5DDDB&ring=4ADD33&border=DDD95D6F&stroke=DDD5A3&currStreakNum=5361DD&sideNums=4ED4DD&sideLabels=DD71CF&dates=D5DDDB"/>
     </a>
 </p>
 <br/>
