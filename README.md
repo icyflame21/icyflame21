@@ -12,9 +12,7 @@
 - 💬 &nbsp;Feel free to reach out to me for project collaborations, or just for some interesting discussion.<br/>
 
 - ✉️ &nbsp;You can shoot me an email at biswaranjan.cuh@gmail.com! I'll try to respond as soon as I can.<br/>
-
-- 📄 &nbsp;Please have a look at my [Résumé](https://www.biswaranjan.tk/static/media/Biswaranjan%20Subudhi%20Resume) for more details about me. I'm open to feedback and suggestions!<br/>
-
+- 
 - ⚡ &nbsp;Fun fact: **Jack of all trades, master of none**
 
 
