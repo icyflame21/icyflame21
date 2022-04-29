@@ -12,7 +12,7 @@
 - 💬 &nbsp;Feel free to reach out to me for project collaborations, or just for some interesting discussion.<br/>
 
 - ✉️ &nbsp;You can shoot me an email at biswaranjan.cuh@gmail.com! I'll try to respond as soon as I can.<br/>
-- 
+
 - ⚡ &nbsp;Fun fact: **Jack of all trades, master of none**
 
 
