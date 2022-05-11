@@ -45,7 +45,7 @@
 <p align="center">
 
 <a href="https://github.com/icyflame21">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=icyflame21&show_icons=true&theme=algolia&include_all_commits=false&count_private=true&locale=en"/>&nbsp;  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=icyflame21&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=icyflame21&show_icons=true&theme=algolia&include_all_commits=false&count_private=true&locale=en"/>&nbsp;  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=icyflame21&layout=compact&langs_count=8&theme=algolia"/>
 </a>
     <br/>
     <p align="center">
