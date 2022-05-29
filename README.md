@@ -1,7 +1,5 @@
-![Biswaranjan Subudhi Banner](https://raw.githubusercontent.com/icyflame21/icyflame21/master/assets/banner.png)
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Biswaranjan 👨‍💻</h1>
-<h3 align="center">An Aspiring Full Stack Web Developer from Bhubaneswar (India)</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Biswaranjan Subudhi <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35"></h1>
+<h3 align="center"><i>An Aspiring Full Stack Web Developer from Bhubaneswar, Odisha</i></h3>
 
 ## 👨🏻‍💻 &nbsp;**About Me**
 
@@ -15,54 +13,61 @@
 
 - ⚡ &nbsp;Fun fact: **Jack of all trades, master of none**
 
+<br>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/icyflame21/icyflame21/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+<h3><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h3>
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>
+<img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+<img src="https://img.shields.io/badge/Markdown-100000?style=for-the-badge&logo=markdown&logoColor=05122A" alt="markdown"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
+<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui"/>
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components"/>
+</p>
+
+
+<h3><i>Interested on my top projects? <img src="https://media2.giphy.com/media/dqOQq1ToYzf8fWODSb/giphy.gif" width="50" /></i></h3>
+<p align="left">
+  <a href="https://github.com/icyflame21/Swiggy_Clone" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Swiggy&color=FC8019&logo=swiggy&logoColor=FFFFFF&label=" alt="swiggy_clone" /></a> 
+  <a href="https://github.com/icyflame21/Myntra-Clone" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Myntra&color=E20074&logo=shopify&logoColor=FFFFFF&label=" alt="myntra_clone" /></a>   
+  <a href="https://github.com/icyflame21/Amazon-Prime-Clone" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Amazon Prime Video&color=00A8E1&logo=amazonprime&logoColor=FFFFFF&label=" alt="AmazonPrime_clone" /></a>   
+<a href="https://github.com/icyflame21/SimplyWeather-App" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Weather App&color=F3702A&logo=sonarcloud&logoColor=FFFFFF&label=" alt="weather_app" /></a>   
+<a href="https://github.com/icyflame21/MovieApp" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Movies App&color=004680&logo=The Movie Database&logoColor=FFFFFF&label=" alt="movies_app" /></a>   
+</p>
+
+<h3><i>GitHub's Stats <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/></i></h3>
 
 <p align="center">
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![ReactJs](https://img.shields.io/badge/-ReactJs-05122A?style=flat&logo=react)&nbsp;
-![Bootstrap 5](https://img.shields.io/badge/-Bootstrap5-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=FF7F50)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=764abc)&nbsp;
-![Material UI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=materialui)&nbsp;
-
-</p> 
-
-<br/>
-
-### ⚙️ &nbsp;GitHub Analytics
-<p align="center">
-
 <a href="https://github.com/icyflame21">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=icyflame21&show_icons=true&theme=algolia&include_all_commits=false&count_private=true&locale=en"/>&nbsp;  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=icyflame21&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-    <br/>
-    <p align="center">
-    <a href="https://github.com/icyflame21/github-readme-streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=icyflame21&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&background=2B3142&currStreakLabel=D5DDDB&ring=4ADD33&border=DDD95D6F&stroke=DDD5A3&currStreakNum=5361DD&sideNums=4ED4DD&sideLabels=DD71CF&dates=D5DDDB"/>
-    </a>
+<p align="center">
+<a href="https://github.com/icyflame21/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=icyflame21&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&background=2B3142&currStreakLabel=D5DDDB&ring=4ADD33&border=DDD95D6F&stroke=DDD5A3&currStreakNum=5361DD&sideNums=4ED4DD&sideLabels=DD71CF&dates=D5DDDB"/>
+</a>
 </p>
 <br/>
-<br/>
-
 <a href="https://github.com/icyflame21/github-readme-activity-graph"><img alt="Biswaranjan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=icyflame21&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
-<p align="center"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
-<br/>
 
-### 🤝🏻 &nbsp;Connect with Me
-
-<p style="marginLeft:30px">
-<a href="https://www.linkedin.com/in/biswaranjan-subudhi-508158179/"><img src="https://img.shields.io/badge/-Biswaranjan%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:biswaranjan.cuh@gmail.com"><img src="https://img.shields.io/badge/-biswaranjan.cuh-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/biswaranjan-subudhi-508158179/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="biswaranjan" /></a>
+  <a title="biswaranjan.cuh@gmail.com" href="mailto:biswaranjan.cuh@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="biswaranjan" /></a> 
 </p>
+
+
+
+
+
+
