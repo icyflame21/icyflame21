@@ -1,7 +1,7 @@
 ![Biswaranjan Subudhi Banner](https://raw.githubusercontent.com/icyflame21/icyflame21/master/assets/banner.png)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Biswaranjan 👨‍💻</h1>
-<h3 align="center">An Aspiring Front End Web Developer from Bhubaneswar (India)</h3>
+<h3 align="center">An Aspiring Full Stack Web Developer from Bhubaneswar (India)</h3>
 
 ## 👨🏻‍💻 &nbsp;**About Me**
 
