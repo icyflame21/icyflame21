@@ -38,7 +38,7 @@
   <a href="https://github.com/icyflame21/Swiggy_Clone" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Swiggy&color=FC8019&logo=swiggy&logoColor=FFFFFF&label=" alt="swiggy_clone" /></a> 
   <a href="https://github.com/icyflame21/Myntra-Clone" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Myntra&color=E20074&logo=shopify&logoColor=FFFFFF&label=" alt="myntra_clone" /></a>   
   <a href="https://github.com/icyflame21/Amazon-Prime-Clone" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Amazon Prime Video&color=00A8E1&logo=amazonprime&logoColor=FFFFFF&label=" alt="AmazonPrime_clone" /></a>   
-<a href="https://github.com/icyflame21/SimplyWeather-App" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Weather App&color=F3702A&logo=sonarcloud&logoColor=FFFFFF&label=" alt="weather_app" /></a>   
+<a href="https://github.com/icyflame21/SimplyWeather-App" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Weather App&color=CB3837&logo=sonarcloud&logoColor=FFFFFF&label=" alt="weather_app" /></a>   
 <a href="https://github.com/icyflame21/MovieApp" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Movies App&color=004680&logo=The Movie Database&logoColor=FFFFFF&label=" alt="movies_app" /></a>   
 </p>
 
