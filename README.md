@@ -7,7 +7,7 @@
 
 - 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br/>
 
-- 💬 &nbsp;Feel free to reach out to me for project collaborations, or just for some interesting discussion.<br/>
+- 💬 &nbsp;Feel free to reach out to me for project collaborations.<br/>
 
 - ✉️ &nbsp;You can shoot me an email at biswaranjan.cuh@gmail.com<br/>
 
@@ -31,8 +31,6 @@
 <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui"/>
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components"/>
 </p>
-
-
 <h3><i>Interested on my top projects? <img src="https://media2.giphy.com/media/dqOQq1ToYzf8fWODSb/giphy.gif" width="50" /></i></h3>
 <p align="left">
   <a href="https://github.com/icyflame21/Swiggy_Clone" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Swiggy&color=FC8019&logo=swiggy&logoColor=FFFFFF&label=" alt="swiggy_clone" /></a> 
@@ -41,9 +39,6 @@
 <a href="https://github.com/icyflame21/SimplyWeather-App" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Weather App&color=CB3837&logo=sonarcloud&logoColor=FFFFFF&label=" alt="weather_app" /></a>   
 <a href="https://github.com/icyflame21/MovieApp" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Movies App&color=004680&logo=The Movie Database&logoColor=FFFFFF&label=" alt="movies_app" /></a>   
 </p>
-
-
-
 <h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/biswaranjan-subudhi-508158179/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="biswaranjan" /></a>
@@ -59,13 +54,3 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=icyflame21&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&background=2B3142&currStreakLabel=D5DDDB&ring=4ADD33&border=DDD95D6F&stroke=DDD5A3&currStreakNum=5361DD&sideNums=4ED4DD&sideLabels=DD71CF&dates=D5DDDB"/>
 </a>
 </p>
-
-
-
-
-
-
-
-
-
-
