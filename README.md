@@ -5,13 +5,13 @@
 
 <h3><i>About Me<img src="https://media0.giphy.com/media/Yqiw4XZ1LhMRRCL2ZO/giphy.gif?cid=ecf05e47h340606frgxceo0ffd3xjohtz4vlgsca6hturv4k&rid=giphy.gif&ct=g" width="50"/></i></h3>
 
-- 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br/>
+- 🌱 I’m currently learning **Frontend and Backend Technologies**.
 
-- 💬 &nbsp;Feel free to reach out to me for project collaborations.<br/>
+- 👯 I’m looking to collaborate on **Meaningful Projects**.
 
-- ✉️ &nbsp;You can shoot me an email at biswaranjan.cuh@gmail.com<br/>
+- 📫 How to reach me **biswaranjan.cuh@gmail.com**
 
-- ⚡ &nbsp;Fun fact: **Jack of all trades, master of none**
+- ⚡ Fun fact **Read Blog , Community work , Playing sports.**
 
 <h3><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h3>
 
