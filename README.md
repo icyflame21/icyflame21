@@ -1,47 +1,45 @@
 
-<h1 align="center">Hey, I'm Biswaranjan 👋
-</h1><h3 align='center'>
-Frontend web developer with a passion for aesthetic interfaces.</h3>
+<h1 align="center">Hi, I'm Biswaranjan! 👋</h1>
+<h3 align='center'>Passionate Frontend Web Developer with a Focus on Aesthetic Interfaces</h3>
 
-<h1 align="center"><img width="450" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
-</h1>
+<p align="center">
+  <img width="450" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
+</p>
 
-<h3><i>About Me<img src="https://media0.giphy.com/media/Yqiw4XZ1LhMRRCL2ZO/giphy.gif?cid=ecf05e47h340606frgxceo0ffd3xjohtz4vlgsca6hturv4k&rid=giphy.gif&ct=g" width="50"/></i></h3>
+## About Me
 
-- 🌱 I’m currently learning **Frontend and Backend Technologies**.
+I'm a frontend web developer passionate about creating visually appealing and user-friendly interfaces. I enjoy turning design concepts into fully functional websites and web applications. I have a strong foundation in HTML, CSS, and JavaScript, and I'm continuously expanding my skill set by learning new frontend and backend technologies.
 
-- 👯 I’m looking to collaborate on Frontend Stack.
+- 🌱 Currently, I'm focusing on learning advanced frontend frameworks like React and backend technologies like Node.js to enhance my development capabilities.
+- 👯 I'm open to collaborating on exciting projects involving the Frontend Stack. If you have an interesting project in mind, feel free to reach out!
+- 📫 You can reach me via email at **biswaranjan.cuh@gmail.com**. I'm always interested in connecting with fellow developers and industry professionals.
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1WX_EeSeWtm9003tkGuPyu_S5doHO1mB1/view?usp=sharing) to learn more about my experiences, projects, and skills.
+- ⚡ Besides coding, I have a keen interest in reading technology blogs, actively participating in community work, and playing sports to maintain a healthy work-life balance.
 
-- 📫 How to reach me **biswaranjan.cuh@gmail.com**
+## Tech Stack
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WX_EeSeWtm9003tkGuPyu_S5doHO1mB1/view?usp=sharing)
-
-- ⚡ Interests **Reading Blogs , Community work , Playing sports.**
-
-<h3><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h3>
+Here are the technologies and tools I work with:
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>
-<img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui"/>
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
 </p>
-<h3><i>Interested on my top projects? <img src="https://media2.giphy.com/media/dqOQq1ToYzf8fWODSb/giphy.gif" width="50" /></i></h3>
-<p align="left">
-  <a href="https://github.com/icyflame21/Swiggy_Clone" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Swiggy&color=FC8019&logo=swiggy&logoColor=FFFFFF&label=" alt="swiggy_clone" /></a> 
-  <a href="https://github.com/icyflame21/Myntra-Clone" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Myntra&color=E20074&logo=shopify&logoColor=FFFFFF&label=" alt="myntra_clone" /></a>   
-  <a href="https://github.com/icyflame21/Amazon-Prime-Clone" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Amazon Prime Video&color=00A8E1&logo=amazonprime&logoColor=FFFFFF&label=" alt="AmazonPrime_clone" /></a>   
-<a href="https://github.com/icyflame21/SimplyWeather-App" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Weather App&color=CB3837&logo=sonarcloud&logoColor=FFFFFF&label=" alt="weather_app" /></a>   
-<a href="https://github.com/icyflame21/MovieApp" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Movies App&color=004680&logo=The Movie Database&logoColor=FFFFFF&label=" alt="movies_app" /></a>   
-</p>
+
+- I love working with modern frontend frameworks like React, which allows me to build dynamic and interactive user interfaces efficiently. I also utilize Redux for state management and Material UI for designing beautiful UI components. Additionally, I have experience with HTML5, CSS3, and Bootstrap for building responsive and mobile-friendly websites.
+
+- In terms of collaboration and version control, I'm proficient in using Git and GitHub, ensuring smooth collaboration with other developers and maintaining clean and organized code repositories.
+
+- Feel free to explore my GitHub repositories to see examples of my work and the projects I've contributed to. If you have any questions or project ideas, feel free to reach out to me. Let's create something amazing together!
+
 <h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/biswaranjan-subudhi-508158179/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="biswaranjan" /></a>
