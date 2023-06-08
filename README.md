@@ -13,7 +13,7 @@ I'm a frontend web developer passionate about creating visually appealing and us
 - 🌱 Currently, I'm focusing on learning advanced frontend frameworks like React and backend technologies like Node.js to enhance my development capabilities.
 - 👯 I'm open to collaborating on exciting projects involving the Frontend Stack. If you have an interesting project in mind, feel free to reach out!
 - 📫 You can reach me via email at **biswaranjan.cuh@gmail.com**. I'm always interested in connecting with fellow developers and industry professionals.
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1WX_EeSeWtm9003tkGuPyu_S5doHO1mB1/view?usp=sharing) to learn more about my experiences, projects, and skills.
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1M6WNaKyka5I_vPDH-oKIxQWOIjDSUbal/view?usp=sharing) to learn more about my experiences, projects, and skills.
 - ⚡ Besides coding, I have a keen interest in reading technology blogs, actively participating in community work, and playing sports to maintain a healthy work-life balance.
 
 ## Tech Stack
