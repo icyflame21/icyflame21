@@ -1,48 +1,28 @@
+<h1 align="center">Hi 👋, I'm Biswaranjan</h1>
+<h3 align="center">Passionate Software Developer with a Focus on Aesthetic Interfaces.</h3>
 
-<h1 align="center">Hi, I'm Biswaranjan! 👋</h1>
-<h3 align='center'>Passionate Software Developer with a Focus on Aesthetic Interfaces</h3>
+- 🔭 I’m currently working on **Saveplex (Supply Chain Management System)**
 
-<p align="center">
-  <img width="450" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
-</p>
+- 🌱 I’m currently learning **React native**
 
-## About Me
+- 👯 I’m looking to collaborate on [Omnifood](https://github.com/icyflame21/Omnifood)
 
-- 🌱 Currently, I'm focusing on learning advanced frontend frameworks like React and backend technologies like Node.js to enhance my development capabilities.
-- 👯 I'm open to collaborating on exciting projects involving the Frontend Stack.
-- 📫 You can reach me via email at **biswaranjan.cuh@gmail.com**.
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1M6WNaKyka5I_vPDH-oKIxQWOIjDSUbal/view?usp=sharing) to learn more about my experiences, projects, and skills.
-- ⚡ Besides coding, I have a keen interest in reading technology blogs, actively participating in community work, and playing sports to maintain a healthy work-life balance.
+- 💬 Ask me about **React, React Native, and related libraries and frameworks**
 
-## Tech Stack
+- 📫 How to reach me **biswaranjan.cuh@gmail.com**
 
-Here are the technologies and tools I work with:
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1M6WNaKyka5I_vPDH-oKIxQWOIjDSUbal/view?usp=sharing)
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" />
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailWind"/>
-  <img src="https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase&logoColor=orange" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Testing-black?style=for-the-badge&logo=jest&logoColor=green" alt="Testing" />
-  <img src="https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=sass&logoColor=blue" alt="SASS" />
-
-</p>
-
-- <b>Modern Frontend Expertise:</b> Proficient in React, Redux, Material UI, HTML5, CSS3, and Bootstrap for dynamic and beautiful user interfaces.
-- <b>Collaboration and Version Control:</b> Skilled in Git and GitHub for smooth teamwork and organized code repositories.
-- <b>Let's Build Something Amazing:</b> Excited to collaborate and create incredible projects together. Contact me for a great partnership!
-
-<h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/biswaranjan-subudhi-508158179/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="biswaranjan" /></a>
-  <a title="biswaranjan.cuh@gmail.com" href="mailto:biswaranjan.cuh@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="biswaranjan" /></a> 
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/biswaranjan-subudhi-508158179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/biswaranjan-subudhi-508158179/" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=icyflame21&show_icons=true&locale=en&layout=compact" alt="icyflame21" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=icyflame21&show_icons=true&locale=en" alt="icyflame21" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=icyflame21&" alt="icyflame21" /></p>
