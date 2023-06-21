@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/biswaranjan-s/" target="blank"><img align="center" src="https://i.ibb.co/2dSkTF4/linkedin-svgrepo-com.png" alt="https://www.linkedin.com/in/biswaranjan-s/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/biswaranjan-s/" target="blank"><img align="center" src="https://i.ibb.co/2dSkTF4/linkedin-svgrepo-com.png" alt="https://www.linkedin.com/in/biswaranjan-s/" height="60" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
