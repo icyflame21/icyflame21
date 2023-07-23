@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Biswaranjan</h1>
 <h3 align="center">Passionate Software Developer with a Focus on Aesthetic Interfaces.</h3>
 
-- 🔭 I’m currently working on **[Saveplex](https://saveplex.com/) (Streamlined supply chain, optimized inventory, and seamless e-commerce integration for accelerated growth and increased profitability.)**
+- 🔭 I’m currently working on **[Saveplex](Supply Chain Management system)(https://saveplex.com/)**
 
 - 🌱 I’m currently learning **React native**
 
