@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Biswaranjan</h1>
-<h3 align="center">Passionate Full Stack Software Developer with a Focus on Aesthetic Interfaces.</h3>
+<h3 align="center">Passionate Software Developer with a Focus on Aesthetic Interfaces.</h3>
 
 - 🔭 I’m currently working on **[ezSCM (Supply Chain Management system)](https://ezscm.ai/)**
 
